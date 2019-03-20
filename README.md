@@ -1,6 +1,7 @@
 
 # Apogee Project Presentation
 ### Blood Cell Recognition Problem
+Read this [paper](https://github.com/ighosh98/blood-cell/blob/master/Blood%20Cell%20Classification.pdf) which explains the procedure and the necessary background of the project. 
 #### Model Implemented
 1. CNN <br />
 2. CNN+RNN <br />
