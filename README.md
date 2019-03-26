@@ -10,4 +10,4 @@ Read this [paper](https://github.com/ighosh98/blood-cell/blob/master/Blood%20Cel
 2. https://github.com/Shenggan/BCCD_Dataset
 3. https://ieeexplore.ieee.org/document/8402091 (Refer to this for a more detailed understanding of the implementations)
 #### Project Contributors: 
-[Siddhant Kundu](https://github.com/SKundu1998), [Indraneel Ghosh](https://github.com/ighosh98) , [Jayesh Narayan](https://github.com/jayesh1narayan)
+[Siddhant Kundu](https://github.com/SKundu1998), [Indraneel Ghosh](https://github.com/ighosh98) 
