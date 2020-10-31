@@ -14,4 +14,4 @@ Read this [paper](https://github.com/ighosh98/blood-cell/blob/master/Blood%20Cel
 ### Citation
 If you are using our work kindly add a citation as follows:
 
-**Indraneel Ghosh, Siddhant Kundu Apogee, “Combining Neural Network Models for Blood Cell Classification,” BITS Pilani, Pilani,2019**
+**Indraneel Ghosh, Siddhant Kundu, “Combining Neural Network Models for Blood Cell Classification,”  Apogee,BITS Pilani, Pilani,2019**
